@@ -16,3 +16,7 @@
 ![image.png](/public/setting.png)
 * 小红书任意评论区输入内容末尾包含"/ai"就会触发AI生成评论
 * 视频介绍可以看：[视频介绍](https://www.xiaohongshu.com/explore/664f2af60000000005007414?xsec_token=ABbf0tg2KbDdgEwX4LzJEFIvbzWEdYm49ePEpB5epzjgw=&xsec_source=pc_user)
+
+## 交流
+* 微信(备注：小红书AI助手)
+![image.png](/public/weixin.png)
