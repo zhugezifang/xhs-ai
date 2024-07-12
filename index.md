@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "小地瓜"
-  text: "小红书图片视频下载助手"
-  tagline: "生活攻略，绝美图片，有趣视频，一键下载"
+  name: "小红书AI助手"
+  text: "小红书AI助手"
+  tagline: "小红书AI、AI助手、AI评论"
 
 features:
   - icon:
