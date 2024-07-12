@@ -3,9 +3,8 @@
 
 <template>
   <div class="container">
-    <div class="title">联系我们</div>
-    <p class="tagline">有想法建议？<a href="https://github.com/OldPanda/xiaodigua-homepage/issues/new" target="_blank"><i
-          class="fa-regular fa-hand-point-right"></i>尽管提！</a></p>
+    <p class="tagline"><a href="https://www.zgzf.online/about" target="_blank"><i
+          class="fa-regular fa-hand-point-right"></i>联系我们</a></p>
   </div>
   <div class="media-logos">
     <!-- 神器集 -->
