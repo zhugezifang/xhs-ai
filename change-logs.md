@@ -1,8 +1,7 @@
 # 介绍
 
 ## 小红书AI助手功能介绍：
-
-<video src="https://cdn2.flowus.cn/oss/c92ea5c4-42db-473b-af07-c367569d46e1/Fr0R3-AWnXE7HVFKzkmkbgOsqX5X.mp4?filename=Fr0R3-AWnXE7HVFKzkmkbgOsqX5X.mp4&time=1720791000&token=40daea11f7ffb7cfb8e76cac334793c0d57b357c922bc6588a59370553d29d72&role=sharePaid" controls="controls" width="500" height="300"></video>
+* 演示视频
 
 ## 定价
 * 19.9卖断制
@@ -10,9 +9,7 @@
 
 ## 使用教程
 * 插件地址：[https://chromewebstore.google.com/detail/%E5%B0%8F%E7%BA%A2%E4%B9%A6ai%E5%8A%A9%E6%89%8B/aeipfcbfnekejjdgjgafdjfjidlknaga?authuser=0&hl=en](下载地址)
-
 * 安装完成之后配置激活码
 ![image.png](https://flowus.cn/preview/487be6ac-9e80-494b-a8be-b6c0f06432a4)
-
 * 小红书任意评论区输入内容末尾包含"/ai"就会触发AI生成评论
 * 视频介绍可以看：[https://www.xiaohongshu.com/explore/664f2af60000000005007414?xsec_token=ABbf0tg2KbDdgEwX4LzJEFIvbzWEdYm49ePEpB5epzjgw=&xsec_source=pc_user](视频介绍)
