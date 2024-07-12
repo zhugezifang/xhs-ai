@@ -8,7 +8,7 @@ const { Layout } = DefaultTheme;
 <template>
   <Layout>
     <template #home-hero-image>
-      <img id="hero-image" src="/screen.jpg">
+      <img id="hero-image" src="/screen.jpeg">
     </template>
   </Layout>
 </template>
