@@ -1,23 +1,18 @@
-# 更新日志
+# 介绍
 
-## 0.2.0
-* 允许用户选择图片格式 - [#9](https://github.com/OldPanda/xiaodigua-homepage/issues/9)
-* 在压缩包中包含帖子的文字内容
-* 修复了某些帖子返回 404 的问题
-* Bug 修复及性能优化
+## 小红书AI助手功能介绍：
 
-## 0.1.3
-* 图片自动去水印 - [#5](https://github.com/OldPanda/xiaodigua-homepage/issues/5)
-* 修复了一些 bug 及性能优化
+<video src="https://cdn2.flowus.cn/oss/c92ea5c4-42db-473b-af07-c367569d46e1/Fr0R3-AWnXE7HVFKzkmkbgOsqX5X.mp4?filename=Fr0R3-AWnXE7HVFKzkmkbgOsqX5X.mp4&time=1720791000&token=40daea11f7ffb7cfb8e76cac334793c0d57b357c922bc6588a59370553d29d72&role=sharePaid" controls="controls" width="500" height="300"></video>
 
-## 0.1.2
-* 下载文件命名方式优化 - [#2](https://github.com/OldPanda/xiaodigua-homepage/issues/2)
-* 优化下载过程的用户体验
-* 修复了一些 bug 并提升性能
+## 定价
+* 19.9卖断制
+* 同时也欢迎大家关注我小红书（不定期送激活码，欢迎关注）[https://www.xiaohongshu.com/user/profile/6264dbd8000000001000e5db](诸葛子房)
 
-## 0.1.1
-* 支持小红书导出到微信的 URL
-* 修复了一些 bug
+## 使用教程
+* 插件地址：[https://chromewebstore.google.com/detail/%E5%B0%8F%E7%BA%A2%E4%B9%A6ai%E5%8A%A9%E6%89%8B/aeipfcbfnekejjdgjgafdjfjidlknaga?authuser=0&hl=en](下载地址)
 
-## 0.1.0
-* 提供小红书图片视频下载基础功能
+* 安装完成之后配置激活码
+![image.png](https://flowus.cn/preview/487be6ac-9e80-494b-a8be-b6c0f06432a4)
+
+* 小红书任意评论区输入内容末尾包含"/ai"就会触发AI生成评论
+* 视频介绍可以看：[https://www.xiaohongshu.com/explore/664f2af60000000005007414?xsec_token=ABbf0tg2KbDdgEwX4LzJEFIvbzWEdYm49ePEpB5epzjgw=&xsec_source=pc_user](视频介绍)

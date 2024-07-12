@@ -10,10 +10,10 @@ export default defineConfig({
     logo: '/icon_128.png',
     nav: [
       { text: '首页', link: '/' },
-      { text: '更新日志', link: '/change-logs' }
+      { text: '产品介绍', link: '/change-logs' }
     ],
     socialLinks: [  
-      { icon: 'twitter', link: 'https://twitter.com/OldPanda', ariaLabel: 'X' }
+      { icon: 'twitter', link: 'https://twitter.com/zhugezifang', ariaLabel: 'X' }
     ],
     footer: {
       message: 'Made with 💙 by <a href="https://www.zgzf.online/about" target="_blank">诸葛子房</a>',
