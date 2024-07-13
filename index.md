@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "小红书AI助手"
   text: "小红书AI助手"
-  tagline: "小红书AI、AI助手、AI评论"
+  tagline: "小红书AI、AI助手、AI评论、搞笑评论"
 
 features:
   - icon:
