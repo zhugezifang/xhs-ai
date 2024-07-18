@@ -17,7 +17,8 @@ export default defineConfig({
     ],
     footer: {
       message: 'Made with 💙 by <a href="https://www.zgzf.online/about" target="_blank">诸葛子房</a>',
-      copyright: 'Copyright © 2024-present'
+      copyright: '<a href="https://mnemonicgenerator.online/" target="_blank">Mnemonic Generator</a>&nbsp;|&nbsp;<a href="https://www.chronological-age-calculator.online/" target="_blank">Chronological Age Calculator
+</a>'
     }
   },
   appearance: false,
