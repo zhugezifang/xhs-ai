@@ -16,7 +16,7 @@ export default defineConfig({
       { icon: 'twitter', link: 'https://twitter.com/zhugezifang', ariaLabel: 'X' }
     ],
     footer: {
-      message: '<a href="https://mnemonicgenerator.online/" target="_blank">Mnemonic-Generator</a> <a href="https://www.chronological-age-calculator.online/" target="_blank">Chronological-Age-Calculator</a>',
+      message: '<a href="https://mnemonicgenerator.online/" target="_blank">Mnemonic-Generator</a> &nbsp;|&nbsp;<a href="https://www.chronological-age-calculator.online/" target="_blank">Chronological-Age-Calculator</a>',
       copyright: 'copywrite @ 2024'
     }
   },
