@@ -16,7 +16,7 @@ export default defineConfig({
       { icon: 'twitter', link: 'https://twitter.com/zhugezifang', ariaLabel: 'X' }
     ],
     footer: {
-      message: '<a href="https://mnemonicgenerator.online/" target="_blank">Mnemonic-Generator</a> &nbsp;|&nbsp;<a href="https://www.chronological-age-calculator.online/" target="_blank">Chronological-Age-Calculator</a>',
+      message: '<a href="https://bottleneck-calculators.online/" target="_blank">PC Bottleneck Calculator</a> &nbsp;|&nbsp;<a href="https://virtual-try-on.online/" target="_blank">Kolors Virtual Try On</a> &nbsp;|&nbsp;<a href="https://mnemonicgenerator.online/" target="_blank">Mnemonic-Generator</a> &nbsp;|&nbsp;<a href="https://www.chronological-age-calculator.online/" target="_blank">Chronological-Age-Calculator</a>',
       copyright: 'copywrite @ 2024'
     }
   },
